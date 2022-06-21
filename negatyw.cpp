@@ -1,5 +1,5 @@
 //
-// Created by Arkadiusz Bajura on 20/06/2022.
+// Created by Andrzej Baranski on 20/06/2022.
 //
 
 #include "negatyw.h"
